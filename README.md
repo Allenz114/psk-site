@@ -8,3 +8,5 @@ ten minutes. This repository holds the public station directory.
 
 To make a change, work on a branch and open a pull request. Somebody
 else reviews it before it's merged.
+
+Every pull request should add a line to the top of `CHANGES.md`.
